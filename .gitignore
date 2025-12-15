@@ -1,0 +1,26 @@
+# Android build artifacts
+build/
+.gradle/
+.idea/
+local.properties
+*.iml
+
+# Build outputs
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Keep these:
+# CalculatorApp/app/libs/hybid-sdk.aar (required for build)
+# All source files
+# Documentation files
+
